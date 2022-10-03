@@ -1,0 +1,52 @@
+*{
+
+    padding:0px;
+    margin: 0px;
+    border: 0px;
+ 
+}
+
+
+.box1-props
+{
+background-color: lightskyblue;
+width: 50px;
+height: 50px;
+padding:50px;
+border: 50px;
+border-style: solid;
+border-color: lightslategray;
+
+
+}
+.box2-props {
+
+background-color: lightpink;
+
+width: 50px;
+height: 50px;
+
+padding:50px;
+border:60px;
+margin-left:250px;
+margin-top:50px;
+margin-bottom: 50px;
+border-style: solid;
+border-color: lightgoldenrodyellow;
+
+
+}
+
+.box3-props
+{
+
+    background-color: lightgreen;
+    width: 50px;
+    height: 50px;
+    padding:50px;
+    border:60px;
+    border-style: solid;
+    margin-left: 500px;
+    border-color: lightseagreen;
+    
+}
